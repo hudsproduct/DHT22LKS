@@ -25,7 +25,6 @@ extern "C" {
 // #define MQTT_HOST IPAddress(54, 208, 61, 25)
 #define MQTT_HOST IPAddress(192, 168, 254, 11)
 // For a cloud MQTT broker, type the domain name
-//#define MQTT_HOST "example.com"
 #define MQTT_PORT 1883
 
 // Temperature MQTT Topics
